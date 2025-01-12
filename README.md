@@ -1,4 +1,4 @@
-<h1>Hi, I'm LaTrell, an <a href="https://linkedin.com/in/latrell-c-0486921b6">IT novice.</a> Welcome to my page.</h1>
+<h1>Hi, I'm LaTrell, an <a href="https://linkedin.com/in/latrell-c-0486921b6">IT novice.</a> Welcome to my GitHub.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
