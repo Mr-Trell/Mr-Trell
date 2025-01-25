@@ -1,4 +1,4 @@
-<h1>Hi, I'm LaTrell, an <a href="www.linkedin.com/in/latrell-c-0486921b6/">IT Professional</a>☺</h1>
+<h1>Hi, I'm LaTrell, an <a href="https://www.linkedin.com/in/latrell-c-0486921b6">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
